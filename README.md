@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JakobNath
+- 🌱 I’m currently learning on Harvards entry to programming, CS50
+- 📫 How to reach me, JakobNath@gmail.com
